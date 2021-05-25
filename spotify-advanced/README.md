@@ -19,8 +19,8 @@ you'll have to do is hook up your sound system to the Pi!
 
 ![Spotify Connect Advanced][screenshot]
 
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [release-shield]: https://img.shields.io/badge/version-v0.9.0-blue.svg
 [release]: https://github.com/DaAwesomeP/ha-addon-spotify-connect-advanced/tree/v0.9.0
-[screenshot]: https://github.com/DaAwesomeP/ha-addon-spotify-connect-advanced/raw/master/images/screenshot.png
+[screenshot]: https://github.com/DaAwesomeP/ha-addon-spotify-connect-advanced/raw/main/images/screenshot.png
